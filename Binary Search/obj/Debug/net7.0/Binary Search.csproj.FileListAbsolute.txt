@@ -1,0 +1,15 @@
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.csproj.AssemblyReference.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfoInputs.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfo.cs
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\bin\Debug\net7.0\Binary Search.exe
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\bin\Debug\net7.0\Binary Search.deps.json
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\bin\Debug\net7.0\Binary Search.runtimeconfig.json
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\bin\Debug\net7.0\Binary Search.dll
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\bin\Debug\net7.0\Binary Search.pdb
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.dll
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\refint\Binary Search.dll
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.pdb
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\Binary Search.genruntimeconfig.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Binary Search\obj\Debug\net7.0\ref\Binary Search.dll
