@@ -1,0 +1,15 @@
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.csproj.AssemblyReference.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.AssemblyInfoInputs.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.AssemblyInfo.cs
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\bin\Debug\net7.0\Quick Sort.exe
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\bin\Debug\net7.0\Quick Sort.deps.json
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\bin\Debug\net7.0\Quick Sort.runtimeconfig.json
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\bin\Debug\net7.0\Quick Sort.dll
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\bin\Debug\net7.0\Quick Sort.pdb
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.dll
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\refint\Quick Sort.dll
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.pdb
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\Quick Sort.genruntimeconfig.cache
+C:\Users\Notebook\OneDrive\Área de Trabalho\Entendendo Algoritmos\Quick Sort\obj\Debug\net7.0\ref\Quick Sort.dll
